@@ -57,7 +57,7 @@ The solution includes both a **Web Application** and a **React Native Mobile App
 
 > Replace the file names below with your final media.
 
-![Demo](demo/demo.mp4)
+![Demo](demo/prototype-demo.mp4)
 
 or
 
